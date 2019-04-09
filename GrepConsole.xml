@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="2" />
+        <option name="actionsExecuted" value="3" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.6.162.000.5" />
       </DonationNagger>
@@ -74,7 +74,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
