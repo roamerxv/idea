@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'brahma'" />
-    <option name="defaultScopeName" value="Project 'brahma'" />
+    <option name="customScope" value="File '.../src/main/java/com/yx/brahma/persistence/entity/ActHiIdentitylinkEntity.java [brahma.main]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/yx/brahma/persistence/entity/ActHiIdentitylinkEntity.java [brahma.main]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'brahma'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/yx/brahma/persistence/entity/ActHiIdentitylinkEntity.java [brahma.main]'" />
   </component>
 </application>
