@@ -1,8 +1,8 @@
 <templateSet group="roamer">
-  <template name="*" value="*&#10; *&#10; * @Description: &#10; * &#10; * @author: 徐泽宇-$user$&#10; * @date: $time$ $date$ &#10; * @param: $param$&#10; * @return: $return$&#10; *&#10; */&#10;" description="method  comment" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="*&#10; *&#10; * @Description: &#10; * &#10; * @author: 徐泽宇-$user$&#10; * @date: $date$ $time$ &#10; * @param: $param$&#10; * @return: $return$&#10; *&#10; */&#10;" description="method  comment" toReformat="false" toShortenFQNames="true">
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
