@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="tabsHeight" value="42" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-7ec85092:1715fad240e:-8000" />
